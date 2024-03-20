@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CHW3_mod3_Kazhkarimov_23101_var3", "CHW3_mod3_Kazhkarimov_23101_var3\CHW3_mod3_Kazhkarimov_23101_var3.csproj", "{D0AE9796-A7AB-49CF-9CD4-E73B0CC6A8FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0AE9796-A7AB-49CF-9CD4-E73B0CC6A8FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0AE9796-A7AB-49CF-9CD4-E73B0CC6A8FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0AE9796-A7AB-49CF-9CD4-E73B0CC6A8FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0AE9796-A7AB-49CF-9CD4-E73B0CC6A8FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79C9A10D-7B85-4437-B627-92F1BF98AB5C}
+	EndGlobalSection
+EndGlobal
