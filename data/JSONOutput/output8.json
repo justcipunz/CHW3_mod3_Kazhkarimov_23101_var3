@@ -1,0 +1,54 @@
+﻿[
+  {
+    "name": "Name",
+    "photo": "Photo",
+    "admArea": "AdmArea",
+    "district": "District",
+    "location": "Location",
+    "registrationNumber": "RegistrationNumber",
+    "state": "State",
+    "locationType": "LocationType",
+    "global_id": "global_id",
+    "geodata_center": "geodata_center",
+    "geoarea": "geoarea"
+  },
+  {
+    "name": "Название объекта",
+    "photo": "Фотография",
+    "admArea": "Административный округ по адресу",
+    "district": "Район",
+    "location": "Месторасположение",
+    "registrationNumber": "Государственный регистрационный знак",
+    "state": "Состояние регистрации",
+    "locationType": "Тип места расположения",
+    "global_id": "global_id",
+    "geodata_center": "geodata_center",
+    "geoarea": "geoarea"
+  },
+  {
+    "name": "МОУШН СФЕРА",
+    "photo": "6271a285-d5af-446d-aa40-6da5d236b55f",
+    "admArea": "Юго-Восточный административный округ",
+    "district": "район Марьино",
+    "location": "ТРК «MARI»",
+    "registrationNumber": "0296-77",
+    "state": "аттракцион зарегистрирован",
+    "locationType": "торгово-развлекательный комплекс",
+    "global_id": "2386835260",
+    "geodata_center": "",
+    "geoarea": ""
+  },
+  {
+    "name": "ДИНАМИЧЕСКАЯ ПЛАТФОРМА EP 4VR ST",
+    "photo": "9c2a9b4e-7596-4f7d-a4da-d86d57c821e6",
+    "admArea": "Юго-Восточный административный округ",
+    "district": "район Марьино",
+    "location": "ТРК «MARI»",
+    "registrationNumber": "2333-77",
+    "state": "аттракцион зарегистрирован",
+    "locationType": "торгово-развлекательный комплекс",
+    "global_id": "2386886293",
+    "geodata_center": "",
+    "geoarea": ""
+  }
+]

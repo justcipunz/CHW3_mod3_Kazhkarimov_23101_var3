@@ -1,0 +1,385 @@
+GetUpdates request at 00:01:11
+ProcessUpdateAsync request at 00:01:15
+ProcessUpdateAsync successfully completed at 00:01:15
+ProcessUpdateAsync request at 00:01:48
+ProcessUpdateAsync successfully completed at 00:01:48
+ProcessUpdateAsync request at 00:01:50
+ProcessUpdateAsync successfully completed at 00:01:50
+ProcessUpdateAsync request at 00:01:53
+ProcessUpdateAsync successfully completed at 00:01:53
+ProcessUpdateAsync request at 00:12:24
+ProcessUpdateAsync successfully completed at 00:12:25
+ProcessUpdateAsync request at 00:13:31
+ProcessUpdateAsync successfully completed at 00:13:31
+ProcessUpdateAsync request at 00:13:32
+ProcessUpdateAsync successfully completed at 00:13:33
+ProcessUpdateAsync request at 00:13:36
+ProcessUpdateAsync successfully completed at 00:13:36
+ProcessUpdateAsync request at 00:15:49
+DownloadData request at 00:15:49
+Download request at 00:15:49
+Download successfully completed at 00:15:49
+DownloadData successfully completed at 00:15:49
+ProcessUpdateAsync successfully completed at 00:15:49
+ProcessUpdateAsync request at 00:15:57
+GetUpdates request at 00:16:15
+ProcessUpdateAsync request at 00:16:17
+ProcessUpdateAsync successfully completed at 00:16:17
+GetUpdates request at 00:26:57
+ProcessUpdateAsync request at 00:27:15
+ProcessUpdateAsync successfully completed at 00:27:15
+ProcessUpdateAsync request at 00:28:14
+DownloadData request at 00:28:14
+Download request at 00:28:14
+Download successfully completed at 00:28:14
+DownloadData successfully completed at 00:28:14
+ProcessUpdateAsync successfully completed at 00:28:14
+ProcessUpdateAsync request at 00:28:30
+ProcessUpdateAsync successfully completed at 00:28:30
+ProcessUpdateAsync request at 00:28:59
+FilterByOneCondition request at 00:29:03
+FilterByOneCondition successfully completed at 00:29:03
+CompleteEditingTask request at 00:29:03
+GetUpdates request at 00:29:12
+ProcessUpdateAsync request at 00:29:16
+ProcessUpdateAsync successfully completed at 00:29:16
+ProcessUpdateAsync request at 00:29:18
+DownloadData request at 00:29:18
+Download request at 00:29:18
+Download successfully completed at 00:29:18
+DownloadData successfully completed at 00:29:19
+ProcessUpdateAsync successfully completed at 00:29:19
+ProcessUpdateAsync request at 00:29:20
+ProcessUpdateAsync successfully completed at 00:29:20
+ProcessUpdateAsync request at 00:29:33
+FilterByOneCondition request at 00:29:33
+FilterByOneCondition successfully completed at 00:29:33
+CompleteEditingTask request at 00:29:33
+GetUpdates request at 00:30:34
+ProcessUpdateAsync request at 00:30:36
+ProcessUpdateAsync successfully completed at 00:30:36
+ProcessUpdateAsync request at 00:30:40
+DownloadData request at 00:30:40
+Download request at 00:30:40
+Download successfully completed at 00:30:40
+DownloadData successfully completed at 00:30:40
+ProcessUpdateAsync successfully completed at 00:30:40
+ProcessUpdateAsync request at 00:30:42
+ProcessUpdateAsync successfully completed at 00:30:42
+ProcessUpdateAsync request at 00:30:44
+FilterByOneCondition request at 00:30:44
+FilterByOneCondition successfully completed at 00:30:44
+CompleteEditingTask request at 00:30:44
+GetUpdates request at 00:31:46
+ProcessUpdateAsync request at 00:31:49
+ProcessUpdateAsync successfully completed at 00:31:49
+ProcessUpdateAsync request at 00:31:50
+DownloadData request at 00:31:50
+Download request at 00:31:50
+Download successfully completed at 00:31:50
+DownloadData successfully completed at 00:31:51
+ProcessUpdateAsync successfully completed at 00:31:51
+ProcessUpdateAsync request at 00:31:55
+ProcessUpdateAsync successfully completed at 00:31:55
+ProcessUpdateAsync request at 00:31:57
+FilterByOneCondition request at 00:31:57
+FilterByOneCondition successfully completed at 00:31:57
+CompleteEditingTask request at 00:31:57
+CompleteEditingTask successfully completed at 00:31:57
+ProcessUpdateAsync request at 00:32:45
+ProcessUpdateAsync successfully completed at 00:32:45
+ProcessUpdateAsync request at 00:32:49
+ProcessUpdateAsync request at 00:32:52
+ProcessUpdateAsync request at 00:32:53
+ProcessUpdateAsync request at 00:32:54
+ProcessUpdateAsync request at 00:32:54
+GetUpdates request at 00:33:22
+GetUpdates request at 00:33:39
+An error occurred in Main at 00:34:00
+System.AggregateException
+One or more errors occurred. (Exception during making request)
+GetUpdates request at 00:34:20
+ProcessUpdateAsync request at 00:34:22
+ProcessUpdateAsync request at 00:34:22
+ProcessUpdateAsync request at 00:34:22
+DownloadData request at 00:34:22
+Download request at 00:34:22
+ProcessUpdateAsync successfully completed at 00:34:22
+ProcessUpdateAsync successfully completed at 00:34:22
+Download successfully completed at 00:34:22
+DownloadData successfully completed at 00:34:23
+ProcessUpdateAsync successfully completed at 00:34:23
+ProcessUpdateAsync request at 00:34:42
+ProcessUpdateAsync successfully completed at 00:34:42
+ProcessUpdateAsync request at 00:34:43
+SortByRegistrationNumber request at 00:34:43
+SortByRegistrationNumber successfully completed at 00:34:43
+CompleteEditingTask request at 00:34:43
+CompleteEditingTask successfully completed at 00:34:43
+ProcessUpdateAsync successfully completed at 00:34:43
+ProcessUpdateAsync request at 00:34:46
+ProcessUpdateAsync successfully completed at 00:34:46
+ProcessUpdateAsync request at 00:34:48
+Upload request at 00:34:48
+Upload successfully completed at 00:34:48
+ProcessUpdateAsync successfully completed at 00:34:48
+ProcessUpdateAsync request at 00:35:54
+ProcessUpdateAsync successfully completed at 00:35:55
+ProcessUpdateAsync request at 00:35:59
+SortByRegistrationNumber request at 00:35:59
+SortByRegistrationNumber successfully completed at 00:35:59
+CompleteEditingTask request at 00:35:59
+CompleteEditingTask successfully completed at 00:35:59
+ProcessUpdateAsync successfully completed at 00:35:59
+ProcessUpdateAsync request at 00:36:01
+ProcessUpdateAsync successfully completed at 00:36:01
+ProcessUpdateAsync request at 00:36:03
+Upload request at 00:36:03
+Upload successfully completed at 00:36:04
+ProcessUpdateAsync successfully completed at 00:36:04
+ProcessUpdateAsync request at 00:36:33
+ProcessUpdateAsync successfully completed at 00:36:33
+ProcessUpdateAsync request at 00:36:35
+SortByRegistrationNumber request at 00:36:35
+SortByRegistrationNumber successfully completed at 00:36:35
+CompleteEditingTask request at 00:36:35
+CompleteEditingTask successfully completed at 00:36:36
+ProcessUpdateAsync successfully completed at 00:36:36
+ProcessUpdateAsync request at 00:36:36
+ProcessUpdateAsync successfully completed at 00:36:37
+ProcessUpdateAsync request at 00:36:39
+Upload request at 00:36:39
+Upload successfully completed at 00:36:39
+ProcessUpdateAsync successfully completed at 00:36:39
+ProcessUpdateAsync request at 00:37:34
+ProcessUpdateAsync successfully completed at 00:37:34
+ProcessUpdateAsync request at 00:37:42
+DownloadData request at 00:37:42
+Download request at 00:37:42
+Download successfully completed at 00:37:43
+DownloadData successfully completed at 00:37:43
+GetUpdates request at 00:45:12
+GetUpdates request at 00:45:36
+ProcessUpdateAsync request at 00:45:42
+ProcessUpdateAsync successfully completed at 00:45:42
+ProcessUpdateAsync request at 00:45:49
+DownloadData request at 00:45:49
+Download request at 00:45:49
+Download successfully completed at 00:45:50
+DownloadData successfully completed at 00:45:50
+ProcessUpdateAsync successfully completed at 00:45:50
+ProcessUpdateAsync request at 00:45:52
+ProcessUpdateAsync successfully completed at 00:45:52
+ProcessUpdateAsync request at 00:45:54
+SortByAdmArea request at 00:45:54
+SortByAdmArea successfully completed at 00:45:54
+CompleteEditingTask request at 00:45:54
+CompleteEditingTask successfully completed at 00:45:54
+ProcessUpdateAsync successfully completed at 00:45:54
+ProcessUpdateAsync request at 00:45:56
+ProcessUpdateAsync successfully completed at 00:45:56
+ProcessUpdateAsync request at 00:45:59
+Upload request at 00:45:59
+Upload successfully completed at 00:46:00
+ProcessUpdateAsync successfully completed at 00:46:00
+GetUpdates request at 02:40:24
+ProcessUpdateAsync request at 02:40:32
+ProcessUpdateAsync successfully completed at 02:40:32
+ProcessUpdateAsync request at 02:41:07
+DownloadData request at 02:41:07
+Download request at 02:41:07
+Download successfully completed at 02:41:07
+DownloadData successfully completed at 02:41:07
+ProcessUpdateAsync successfully completed at 02:41:07
+ProcessUpdateAsync request at 02:41:28
+ProcessUpdateAsync successfully completed at 02:41:28
+ProcessUpdateAsync request at 02:41:49
+FilterByOneCriterion request at 02:41:49
+FilterByOneCriterion successfully completed at 02:41:49
+CompleteEditingTask request at 02:41:49
+CompleteEditingTask successfully completed at 02:41:49
+ProcessUpdateAsync request at 02:41:52
+ProcessUpdateAsync successfully completed at 02:41:52
+ProcessUpdateAsync request at 02:41:54
+Upload request at 02:41:54
+Upload successfully completed at 02:41:54
+ProcessUpdateAsync successfully completed at 02:41:54
+ProcessUpdateAsync request at 02:41:57
+ProcessUpdateAsync successfully completed at 02:41:57
+ProcessUpdateAsync request at 02:41:58
+Upload request at 02:41:58
+Upload successfully completed at 02:41:58
+ProcessUpdateAsync successfully completed at 02:41:58
+ProcessUpdateAsync request at 02:42:13
+ProcessUpdateAsync successfully completed at 02:42:13
+ProcessUpdateAsync request at 02:42:17
+DownloadData request at 02:42:17
+Download request at 02:42:17
+Download successfully completed at 02:42:17
+DownloadData successfully completed at 02:42:17
+ProcessUpdateAsync request at 02:42:26
+ProcessUpdateAsync successfully completed at 02:42:26
+ProcessUpdateAsync request at 02:42:28
+SortByAdmArea request at 02:42:28
+SortByAdmArea successfully completed at 02:42:28
+CompleteEditingTask request at 02:42:28
+CompleteEditingTask successfully completed at 02:42:28
+ProcessUpdateAsync successfully completed at 02:42:28
+ProcessUpdateAsync request at 02:42:30
+ProcessUpdateAsync successfully completed at 02:42:30
+ProcessUpdateAsync request at 02:42:32
+Upload request at 02:42:32
+Upload successfully completed at 02:42:33
+ProcessUpdateAsync successfully completed at 02:42:33
+ProcessUpdateAsync request at 02:42:47
+ProcessUpdateAsync successfully completed at 02:42:48
+ProcessUpdateAsync request at 02:42:55
+DownloadData request at 02:42:55
+Download request at 02:42:55
+Download successfully completed at 02:42:55
+DownloadData successfully completed at 02:42:55
+ProcessUpdateAsync request at 02:42:57
+ProcessUpdateAsync successfully completed at 02:42:57
+ProcessUpdateAsync request at 02:44:07
+FilterByOneCriterion request at 02:44:07
+FilterByOneCriterion successfully completed at 02:44:07
+CompleteEditingTask request at 02:44:07
+CompleteEditingTask successfully completed at 02:44:07
+ProcessUpdateAsync request at 02:44:09
+ProcessUpdateAsync successfully completed at 02:44:09
+ProcessUpdateAsync request at 02:44:11
+Upload request at 02:44:11
+Upload successfully completed at 02:44:11
+ProcessUpdateAsync successfully completed at 02:44:11
+ProcessUpdateAsync request at 02:44:13
+ProcessUpdateAsync successfully completed at 02:44:13
+ProcessUpdateAsync request at 02:44:14
+SortByAdmArea request at 02:44:14
+SortByAdmArea successfully completed at 02:44:14
+CompleteEditingTask request at 02:44:14
+CompleteEditingTask successfully completed at 02:44:14
+ProcessUpdateAsync successfully completed at 02:44:14
+ProcessUpdateAsync request at 02:44:16
+ProcessUpdateAsync successfully completed at 02:44:16
+ProcessUpdateAsync request at 02:44:18
+Upload request at 02:44:18
+Upload successfully completed at 02:44:18
+ProcessUpdateAsync successfully completed at 02:44:18
+ProcessUpdateAsync request at 02:44:47
+ProcessUpdateAsync successfully completed at 02:44:48
+ProcessUpdateAsync request at 02:45:43
+FilterByTwoCriterions request at 02:45:43
+FilterByTwoCriterions successfully completed at 02:45:43
+CompleteEditingTask request at 02:45:43
+CompleteEditingTask successfully completed at 02:45:43
+ProcessUpdateAsync request at 02:46:11
+FilterByTwoCriterions request at 02:46:11
+FilterByTwoCriterions successfully completed at 02:46:11
+CompleteEditingTask request at 02:46:11
+CompleteEditingTask successfully completed at 02:46:11
+ProcessUpdateAsync request at 02:46:14
+ProcessUpdateAsync successfully completed at 02:46:14
+ProcessUpdateAsync request at 02:46:16
+Upload request at 02:46:16
+Upload successfully completed at 02:46:16
+ProcessUpdateAsync successfully completed at 02:46:16
+ProcessUpdateAsync request at 02:47:30
+GetUpdates request at 02:49:50
+ProcessUpdateAsync request at 02:49:51
+ProcessUpdateAsync request at 02:50:03
+ProcessUpdateAsync successfully completed at 02:50:03
+ProcessUpdateAsync request at 02:50:13
+ProcessUpdateAsync successfully completed at 02:50:13
+ProcessUpdateAsync request at 02:50:23
+ProcessUpdateAsync request at 02:52:25
+ProcessUpdateAsync request at 02:52:29
+GetUpdates request at 02:53:21
+ProcessUpdateAsync request at 02:53:27
+ProcessUpdateAsync request at 02:53:30
+ProcessUpdateAsync successfully completed at 02:53:30
+ProcessUpdateAsync request at 02:53:32
+ProcessUpdateAsync request at 02:53:40
+GetUpdates request at 02:54:19
+ProcessUpdateAsync request at 02:54:23
+DownloadData request at 02:54:23
+Download request at 02:54:23
+Download successfully completed at 02:54:23
+DownloadData successfully completed at 02:54:24
+ProcessUpdateAsync successfully completed at 02:54:24
+ProcessUpdateAsync request at 02:54:33
+ProcessUpdateAsync successfully completed at 02:54:33
+ProcessUpdateAsync request at 02:54:36
+ProcessUpdateAsync request at 02:54:41
+DownloadData request at 02:54:41
+Download request at 02:54:41
+Download successfully completed at 02:54:41
+DownloadData successfully completed at 02:54:41
+GetUpdates request at 02:55:11
+ProcessUpdateAsync request at 02:55:15
+ProcessUpdateAsync successfully completed at 02:55:15
+ProcessUpdateAsync request at 02:55:17
+DownloadData request at 02:55:17
+Download request at 02:55:17
+Download successfully completed at 02:55:18
+DownloadData successfully completed at 02:55:18
+ProcessUpdateAsync successfully completed at 02:55:18
+ProcessUpdateAsync request at 02:55:24
+DownloadData request at 02:55:24
+Download request at 02:55:24
+Download successfully completed at 02:55:24
+DownloadData successfully completed at 02:55:24
+ProcessUpdateAsync request at 02:55:26
+ProcessUpdateAsync successfully completed at 02:55:26
+ProcessUpdateAsync request at 02:55:28
+Upload request at 02:55:28
+Upload successfully completed at 02:55:28
+ProcessUpdateAsync successfully completed at 02:55:28
+ProcessUpdateAsync request at 02:55:42
+DownloadData request at 02:55:42
+Download request at 02:55:42
+Download successfully completed at 02:55:42
+DownloadData successfully completed at 02:55:43
+ProcessUpdateAsync request at 02:55:47
+ProcessUpdateAsync successfully completed at 02:55:47
+ProcessUpdateAsync request at 02:55:49
+ProcessUpdateAsync successfully completed at 02:55:49
+ProcessUpdateAsync request at 02:55:52
+ProcessUpdateAsync successfully completed at 02:55:52
+ProcessUpdateAsync request at 02:55:54
+SortByAdmArea request at 02:55:54
+SortByAdmArea successfully completed at 02:55:54
+CompleteEditingTask request at 02:55:54
+CompleteEditingTask successfully completed at 02:55:54
+ProcessUpdateAsync successfully completed at 02:55:54
+GetUpdates request at 02:57:44
+GetUpdates request at 02:57:49
+ProcessUpdateAsync request at 03:10:15
+ProcessUpdateAsync successfully completed at 03:10:15
+ProcessUpdateAsync request at 03:10:26
+DownloadData request at 03:10:26
+Download request at 03:10:26
+Download successfully completed at 03:10:26
+DownloadData successfully completed at 03:10:27
+ProcessUpdateAsync successfully completed at 03:10:27
+ProcessUpdateAsync request at 03:10:33
+ProcessUpdateAsync successfully completed at 03:10:33
+ProcessUpdateAsync request at 03:10:36
+ProcessUpdateAsync successfully completed at 03:10:36
+ProcessUpdateAsync request at 03:10:38
+SortByAdmArea request at 03:10:38
+SortByAdmArea successfully completed at 03:10:38
+CompleteEditingTask request at 03:10:38
+CompleteEditingTask successfully completed at 03:10:38
+ProcessUpdateAsync successfully completed at 03:10:38
+ProcessUpdateAsync request at 03:10:44
+ProcessUpdateAsync successfully completed at 03:10:44
+ProcessUpdateAsync request at 03:10:46
+Upload request at 03:10:46
+Upload successfully completed at 03:10:47
+ProcessUpdateAsync successfully completed at 03:10:47
+ProcessUpdateAsync request at 03:10:53
+ProcessUpdateAsync successfully completed at 03:10:53
+ProcessUpdateAsync request at 03:10:54
+Upload request at 03:10:54
+Upload successfully completed at 03:10:54
+ProcessUpdateAsync successfully completed at 03:10:54

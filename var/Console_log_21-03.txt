@@ -1,0 +1,456 @@
+GetUpdates request at 21:37:38
+ProcessUpdateAsync request at 21:38:10
+ProcessUpdateAsync successfully completed at 21:38:10
+ProcessUpdateAsync request at 21:38:15
+ProcessUpdateAsync successfully completed at 21:38:15
+ProcessUpdateAsync request at 21:38:17
+ProcessUpdateAsync successfully completed at 21:38:17
+ProcessUpdateAsync request at 21:38:29
+DownloadData request at 21:38:29
+Download request at 21:38:29
+Download successfully completed at 21:38:30
+An error occurred in ProcessUpdateAsync at 21:38:30
+System.ArgumentException
+Неверное количество заголовков
+ProcessUpdateAsync successfully completed at 21:38:30
+GetUpdates request at 21:45:36
+ProcessUpdateAsync request at 21:45:54
+ProcessUpdateAsync successfully completed at 21:46:16
+ProcessUpdateAsync request at 21:46:30
+DownloadData request at 21:46:58
+Download request at 21:47:18
+Download successfully completed at 21:47:18
+An error occurred in ProcessUpdateAsync at 21:47:29
+System.ArgumentException
+Неверное количество заголовков
+ProcessUpdateAsync successfully completed at 21:47:29
+ProcessUpdateAsync request at 21:47:53
+DownloadData request at 21:47:57
+Download request at 21:47:57
+Download successfully completed at 21:47:58
+An error occurred in ProcessUpdateAsync at 21:48:06
+System.ArgumentException
+Неверное количество заголовков
+ProcessUpdateAsync successfully completed at 21:48:13
+ProcessUpdateAsync request at 21:48:22
+DownloadData request at 21:48:27
+Download request at 21:48:27
+Download successfully completed at 21:48:28
+An error occurred in ProcessUpdateAsync at 21:48:28
+System.ArgumentException
+Неверное количество заголовков
+ProcessUpdateAsync successfully completed at 21:48:28
+ProcessUpdateAsync request at 21:48:36
+DownloadData request at 21:48:43
+Download request at 21:48:44
+Download successfully completed at 21:48:44
+An error occurred in ProcessUpdateAsync at 21:48:45
+System.ArgumentException
+Неверное количество заголовков
+ProcessUpdateAsync successfully completed at 21:48:45
+ProcessUpdateAsync request at 21:48:53
+DownloadData request at 21:49:01
+Download request at 21:49:05
+Download successfully completed at 21:49:05
+GetUpdates request at 21:58:08
+ProcessUpdateAsync request at 21:59:05
+DownloadData request at 21:59:10
+Download request at 21:59:10
+Download successfully completed at 21:59:10
+An error occurred in ProcessUpdateAsync at 21:59:16
+System.FormatException
+Input string was not in a correct format.
+ProcessUpdateAsync request at 21:59:37
+ProcessUpdateAsync successfully completed at 21:59:39
+DownloadData request at 21:59:54
+Download request at 22:00:01
+Download successfully completed at 22:00:01
+An error occurred in ProcessUpdateAsync at 22:02:03
+System.FormatException
+Input string was not in a correct format.
+ProcessUpdateAsync successfully completed at 22:02:03
+ProcessUpdateAsync request at 22:03:18
+DownloadData request at 22:03:18
+Download request at 22:03:18
+Download successfully completed at 22:03:19
+An error occurred in ProcessUpdateAsync at 22:03:28
+System.FormatException
+Input string was not in a correct format.
+ProcessUpdateAsync successfully completed at 22:03:30
+GetUpdates request at 22:06:43
+ProcessUpdateAsync request at 22:06:55
+DownloadData request at 22:06:55
+Download request at 22:06:55
+Download successfully completed at 22:06:55
+GetUpdates request at 22:08:05
+GetUpdates request at 22:08:45
+ProcessUpdateAsync request at 22:08:52
+DownloadData request at 22:08:52
+Download request at 22:08:52
+Download successfully completed at 22:08:53
+GetUpdates request at 22:10:11
+ProcessUpdateAsync request at 22:10:14
+DownloadData request at 22:10:14
+Download request at 22:10:14
+ProcessUpdateAsync request at 22:10:14
+DownloadData request at 22:10:14
+Download request at 22:10:14
+An error occurred in ProcessUpdateAsync at 22:10:14
+System.IO.IOException
+The process cannot access the file 'C:\Users\ashat\VisualStudioProjects\CHW3_mod3_Kazhkarimov_23101_var3\data\LastInput.csv' because it is being used by another process.
+Download successfully completed at 22:10:14
+GetUpdates request at 22:10:36
+ProcessUpdateAsync request at 22:10:38
+DownloadData request at 22:10:38
+Download request at 22:10:38
+ProcessUpdateAsync request at 22:10:38
+DownloadData request at 22:10:38
+Download request at 22:10:38
+An error occurred in ProcessUpdateAsync at 22:10:38
+System.IO.IOException
+The process cannot access the file 'C:\Users\ashat\VisualStudioProjects\CHW3_mod3_Kazhkarimov_23101_var3\data\LastInput.csv' because it is being used by another process.
+Download successfully completed at 22:10:38
+GetUpdates request at 22:11:49
+ProcessUpdateAsync request at 22:11:51
+DownloadData request at 22:11:51
+Download request at 22:11:51
+ProcessUpdateAsync request at 22:11:51
+DownloadData request at 22:11:51
+Download request at 22:11:51
+An error occurred in ProcessUpdateAsync at 22:11:51
+System.IO.IOException
+The process cannot access the file 'C:\Users\ashat\VisualStudioProjects\CHW3_mod3_Kazhkarimov_23101_var3\data\LastInput.csv' because it is being used by another process.
+Download successfully completed at 22:11:52
+GetUpdates request at 22:14:19
+ProcessUpdateAsync request at 22:14:20
+DownloadData request at 22:14:20
+Download request at 22:14:20
+ProcessUpdateAsync request at 22:14:20
+DownloadData request at 22:14:20
+Download request at 22:14:20
+An error occurred in ProcessUpdateAsync at 22:14:21
+System.IO.IOException
+The process cannot access the file 'C:\Users\ashat\VisualStudioProjects\CHW3_mod3_Kazhkarimov_23101_var3\data\LastInput.csv' because it is being used by another process.
+Download successfully completed at 22:14:21
+ProcessUpdateAsync successfully completed at 22:14:21
+GetUpdates request at 22:18:24
+ProcessUpdateAsync request at 22:18:27
+DownloadData request at 22:18:27
+Download request at 22:18:27
+ProcessUpdateAsync request at 22:18:27
+DownloadData request at 22:18:27
+Download request at 22:18:27
+An error occurred in ProcessUpdateAsync at 22:18:27
+System.IO.IOException
+The process cannot access the file 'C:\Users\ashat\VisualStudioProjects\CHW3_mod3_Kazhkarimov_23101_var3\data\LOLInput.csv' because it is being used by another process.
+Download successfully completed at 22:18:27
+GetUpdates request at 22:19:21
+ProcessUpdateAsync request at 22:19:23
+DownloadData request at 22:19:23
+Download request at 22:19:24
+ProcessUpdateAsync request at 22:19:37
+DownloadData request at 22:19:37
+Download request at 22:19:39
+An error occurred in ProcessUpdateAsync at 22:20:09
+System.IO.IOException
+The process cannot access the file 'C:\Users\ashat\VisualStudioProjects\CHW3_mod3_Kazhkarimov_23101_var3\data\LastInput.csv' because it is being used by another process.
+Download successfully completed at 22:20:09
+GetUpdates request at 22:20:20
+ProcessUpdateAsync request at 22:20:21
+DownloadData request at 22:20:21
+Download request at 22:20:30
+ProcessUpdateAsync request at 22:20:53
+DownloadData request at 22:20:53
+Download request at 22:21:06
+GetUpdates request at 22:23:58
+ProcessUpdateAsync request at 22:24:02
+DownloadData request at 22:24:02
+Download request at 22:24:04
+ProcessUpdateAsync request at 22:24:11
+DownloadData request at 22:24:11
+Download request at 22:24:22
+An error occurred in ProcessUpdateAsync at 22:24:44
+System.IO.IOException
+The process cannot access the file 'C:\Users\ashat\VisualStudioProjects\CHW3_mod3_Kazhkarimov_23101_var3\data\LastInput.csv' because it is being used by another process.
+Download successfully completed at 22:24:44
+ProcessUpdateAsync successfully completed at 22:24:47
+GetUpdates request at 22:30:14
+ProcessUpdateAsync request at 22:30:54
+DownloadData request at 22:30:54
+Download request at 22:30:58
+Download successfully completed at 22:31:03
+GetUpdates request at 22:31:50
+An error occurred in Main at 22:32:12
+System.AggregateException
+One or more errors occurred. (Exception during making request)
+GetUpdates request at 22:32:23
+ProcessUpdateAsync request at 22:32:25
+DownloadData request at 22:32:25
+Download request at 22:32:29
+ProcessUpdateAsync request at 22:32:35
+ProcessUpdateAsync request at 22:32:35
+ProcessUpdateAsync successfully completed at 22:32:36
+ProcessUpdateAsync successfully completed at 22:32:36
+Download successfully completed at 22:32:37
+ProcessUpdateAsync request at 22:32:39
+ProcessUpdateAsync successfully completed at 22:32:49
+GetUpdates request at 22:34:29
+ProcessUpdateAsync request at 22:34:34
+ProcessUpdateAsync successfully completed at 22:34:35
+ProcessUpdateAsync request at 22:34:39
+DownloadData request at 22:34:39
+Download request at 22:34:43
+Download successfully completed at 22:34:49
+GetUpdates request at 22:39:55
+ProcessUpdateAsync request at 22:40:18
+DownloadData request at 22:40:18
+Download request at 22:40:18
+Download successfully completed at 22:40:18
+GetUpdates request at 22:44:39
+ProcessUpdateAsync request at 22:44:42
+DownloadData request at 22:44:42
+Download request at 22:44:42
+Download successfully completed at 22:44:44
+GetUpdates request at 22:49:38
+GetUpdates request at 22:49:50
+ProcessUpdateAsync request at 22:49:57
+DownloadData request at 22:49:57
+Download request at 22:49:57
+Download successfully completed at 22:49:57
+DownloadData successfully completed at 22:50:51
+ProcessUpdateAsync successfully completed at 22:50:54
+GetUpdates request at 22:54:11
+ProcessUpdateAsync request at 22:54:12
+ProcessUpdateAsync successfully completed at 22:54:12
+ProcessUpdateAsync request at 22:54:17
+DownloadData request at 22:54:17
+Download request at 22:54:17
+Download successfully completed at 22:54:18
+DownloadData successfully completed at 22:54:27
+ProcessUpdateAsync successfully completed at 22:54:33
+ProcessUpdateAsync request at 22:55:26
+ProcessUpdateAsync successfully completed at 22:56:30
+ProcessUpdateAsync request at 22:57:28
+ProcessUpdateAsync successfully completed at 22:57:53
+GetUpdates request at 23:00:44
+ProcessUpdateAsync request at 23:00:51
+ProcessUpdateAsync successfully completed at 23:00:53
+ProcessUpdateAsync request at 23:01:02
+DownloadData request at 23:01:02
+Download request at 23:01:02
+Download successfully completed at 23:01:02
+DownloadData successfully completed at 23:01:02
+ProcessUpdateAsync successfully completed at 23:01:02
+ProcessUpdateAsync request at 23:01:06
+ProcessUpdateAsync successfully completed at 23:01:06
+ProcessUpdateAsync request at 23:01:35
+FilterByOneCondition request at 23:01:49
+GetUpdates request at 23:02:53
+ProcessUpdateAsync request at 23:03:04
+ProcessUpdateAsync successfully completed at 23:03:04
+ProcessUpdateAsync request at 23:03:13
+DownloadData request at 23:03:13
+Download request at 23:03:13
+Download successfully completed at 23:03:14
+DownloadData successfully completed at 23:03:14
+ProcessUpdateAsync successfully completed at 23:03:14
+ProcessUpdateAsync request at 23:03:19
+DownloadData request at 23:03:19
+Download request at 23:03:19
+Download successfully completed at 23:03:19
+GetUpdates request at 23:09:05
+ProcessUpdateAsync request at 23:09:16
+GetUpdates request at 23:10:34
+ProcessUpdateAsync request at 23:10:35
+ProcessUpdateAsync successfully completed at 23:10:36
+ProcessUpdateAsync request at 23:10:40
+DownloadData request at 23:10:40
+Download request at 23:10:40
+Download successfully completed at 23:10:40
+DownloadData successfully completed at 23:10:41
+ProcessUpdateAsync successfully completed at 23:10:41
+ProcessUpdateAsync request at 23:10:43
+ProcessUpdateAsync successfully completed at 23:10:54
+ProcessUpdateAsync request at 23:11:32
+FilterByOneCondition request at 23:11:40
+GetUpdates request at 23:23:53
+ProcessUpdateAsync request at 23:23:54
+ProcessUpdateAsync successfully completed at 23:23:55
+ProcessUpdateAsync request at 23:24:06
+DownloadData request at 23:24:06
+Download request at 23:24:06
+Download successfully completed at 23:24:06
+DownloadData successfully completed at 23:24:06
+ProcessUpdateAsync successfully completed at 23:24:06
+ProcessUpdateAsync request at 23:24:08
+ProcessUpdateAsync successfully completed at 23:24:08
+ProcessUpdateAsync request at 23:24:27
+GetUpdates request at 23:26:10
+ProcessUpdateAsync request at 23:26:11
+ProcessUpdateAsync successfully completed at 23:26:12
+ProcessUpdateAsync request at 23:26:19
+DownloadData request at 23:26:19
+Download request at 23:26:19
+Download successfully completed at 23:26:19
+DownloadData successfully completed at 23:26:19
+ProcessUpdateAsync successfully completed at 23:26:19
+ProcessUpdateAsync request at 23:26:22
+ProcessUpdateAsync successfully completed at 23:26:23
+ProcessUpdateAsync request at 23:26:29
+ProcessUpdateAsync request at 23:26:49
+FilterByOneCondition request at 23:26:53
+FilterByOneCondition successfully completed at 23:26:53
+CompleteEditingTask request at 23:26:57
+GetUpdates request at 23:29:32
+ProcessUpdateAsync request at 23:29:34
+ProcessUpdateAsync successfully completed at 23:29:34
+ProcessUpdateAsync request at 23:29:37
+DownloadData request at 23:29:37
+Download request at 23:29:37
+Download successfully completed at 23:29:38
+DownloadData successfully completed at 23:29:38
+ProcessUpdateAsync successfully completed at 23:29:38
+ProcessUpdateAsync request at 23:29:42
+ProcessUpdateAsync successfully completed at 23:29:42
+ProcessUpdateAsync request at 23:29:52
+FilterByOneCondition request at 23:29:52
+FilterByOneCondition successfully completed at 23:29:52
+CompleteEditingTask request at 23:29:52
+GetUpdates request at 23:30:44
+ProcessUpdateAsync request at 23:30:47
+ProcessUpdateAsync successfully completed at 23:30:47
+ProcessUpdateAsync request at 23:30:54
+DownloadData request at 23:30:54
+Download request at 23:30:54
+Download successfully completed at 23:30:54
+DownloadData successfully completed at 23:30:54
+ProcessUpdateAsync successfully completed at 23:30:54
+ProcessUpdateAsync request at 23:30:56
+ProcessUpdateAsync successfully completed at 23:30:56
+ProcessUpdateAsync request at 23:31:02
+FilterByOneCondition request at 23:31:02
+FilterByOneCondition successfully completed at 23:31:02
+CompleteEditingTask request at 23:31:07
+GetUpdates request at 23:31:49
+ProcessUpdateAsync request at 23:31:50
+ProcessUpdateAsync successfully completed at 23:31:51
+ProcessUpdateAsync request at 23:32:02
+DownloadData request at 23:32:02
+Download request at 23:32:02
+Download successfully completed at 23:32:02
+DownloadData successfully completed at 23:32:02
+ProcessUpdateAsync successfully completed at 23:32:02
+ProcessUpdateAsync request at 23:32:21
+ProcessUpdateAsync successfully completed at 23:32:21
+ProcessUpdateAsync request at 23:32:25
+Upload request at 23:32:25
+Upload successfully completed at 23:32:26
+ProcessUpdateAsync successfully completed at 23:32:26
+ProcessUpdateAsync request at 23:32:30
+ProcessUpdateAsync successfully completed at 23:32:30
+ProcessUpdateAsync request at 23:32:31
+Upload request at 23:32:31
+Upload successfully completed at 23:32:31
+ProcessUpdateAsync successfully completed at 23:32:31
+ProcessUpdateAsync request at 23:35:22
+ProcessUpdateAsync successfully completed at 23:35:22
+ProcessUpdateAsync request at 23:35:24
+Upload request at 23:35:24
+GetUpdates request at 23:37:24
+ProcessUpdateAsync request at 23:37:26
+ProcessUpdateAsync successfully completed at 23:37:26
+ProcessUpdateAsync request at 23:38:40
+DownloadData request at 23:38:40
+Download request at 23:38:40
+Download successfully completed at 23:38:40
+DownloadData successfully completed at 23:38:40
+ProcessUpdateAsync successfully completed at 23:38:40
+ProcessUpdateAsync request at 23:38:59
+ProcessUpdateAsync successfully completed at 23:38:59
+ProcessUpdateAsync request at 23:39:07
+FilterByOneCondition request at 23:39:07
+FilterByOneCondition successfully completed at 23:39:07
+CompleteEditingTask request at 23:39:10
+GetUpdates request at 23:40:47
+ProcessUpdateAsync request at 23:40:48
+ProcessUpdateAsync successfully completed at 23:40:49
+ProcessUpdateAsync request at 23:40:53
+ProcessUpdateAsync successfully completed at 23:40:53
+ProcessUpdateAsync request at 23:40:55
+ProcessUpdateAsync successfully completed at 23:40:55
+ProcessUpdateAsync request at 23:40:56
+ProcessUpdateAsync successfully completed at 23:40:57
+GetUpdates request at 23:44:10
+ProcessUpdateAsync request at 23:44:47
+ProcessUpdateAsync successfully completed at 23:44:47
+ProcessUpdateAsync request at 23:44:53
+DownloadData request at 23:44:53
+Download request at 23:44:53
+Download successfully completed at 23:44:54
+DownloadData successfully completed at 23:44:54
+ProcessUpdateAsync successfully completed at 23:44:54
+ProcessUpdateAsync request at 23:44:56
+ProcessUpdateAsync successfully completed at 23:44:56
+ProcessUpdateAsync request at 23:45:07
+FilterByOneCondition request at 23:45:07
+FilterByOneCondition successfully completed at 23:45:07
+CompleteEditingTask request at 23:45:11
+GetUpdates request at 23:49:01
+ProcessUpdateAsync request at 23:49:06
+DownloadData request at 23:49:06
+Download request at 23:49:06
+Download successfully completed at 23:49:07
+DownloadData successfully completed at 23:49:07
+ProcessUpdateAsync successfully completed at 23:49:07
+ProcessUpdateAsync request at 23:49:09
+ProcessUpdateAsync successfully completed at 23:49:09
+ProcessUpdateAsync request at 23:49:17
+FilterByOneCondition request at 23:49:17
+FilterByOneCondition successfully completed at 23:49:17
+CompleteEditingTask request at 23:49:17
+GetUpdates request at 23:49:39
+ProcessUpdateAsync request at 23:49:40
+ProcessUpdateAsync successfully completed at 23:49:40
+ProcessUpdateAsync request at 23:49:44
+DownloadData request at 23:49:44
+Download request at 23:49:44
+Download successfully completed at 23:49:44
+DownloadData successfully completed at 23:49:44
+ProcessUpdateAsync successfully completed at 23:49:44
+ProcessUpdateAsync request at 23:49:46
+ProcessUpdateAsync successfully completed at 23:49:46
+ProcessUpdateAsync request at 23:49:49
+FilterByOneCondition request at 23:50:00
+FilterByOneCondition successfully completed at 23:50:00
+CompleteEditingTask request at 23:50:05
+GetUpdates request at 23:51:10
+ProcessUpdateAsync request at 23:51:12
+ProcessUpdateAsync successfully completed at 23:51:12
+ProcessUpdateAsync request at 23:51:15
+DownloadData request at 23:51:15
+Download request at 23:51:15
+Download successfully completed at 23:51:15
+DownloadData successfully completed at 23:51:15
+ProcessUpdateAsync successfully completed at 23:51:15
+ProcessUpdateAsync request at 23:51:17
+ProcessUpdateAsync successfully completed at 23:51:17
+ProcessUpdateAsync request at 23:51:19
+FilterByOneCondition request at 23:51:22
+FilterByOneCondition successfully completed at 23:51:22
+CompleteEditingTask request at 23:51:25
+GetUpdates request at 23:53:42
+ProcessUpdateAsync request at 23:53:45
+ProcessUpdateAsync successfully completed at 23:53:46
+ProcessUpdateAsync request at 23:53:48
+DownloadData request at 23:53:48
+Download request at 23:53:48
+Download successfully completed at 23:53:48
+DownloadData successfully completed at 23:53:49
+ProcessUpdateAsync successfully completed at 23:53:49
+ProcessUpdateAsync request at 23:53:51
+ProcessUpdateAsync successfully completed at 23:53:51
+ProcessUpdateAsync request at 23:53:54
+FilterByOneCondition request at 23:53:55
+FilterByOneCondition successfully completed at 23:53:55
+CompleteEditingTask request at 23:53:56
+CompleteEditingTask successfully completed at 23:53:56
