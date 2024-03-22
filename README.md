@@ -11,7 +11,11 @@
 *- Alright.. Sorry, here it is..* (╥﹏╥)
 
 ## Polly
-**Introducing Polly, the extraordinary robot vacuum cleaner with a twist! Not only does Polly excel at keeping your floors spotless, but she also boasts a remarkable set of skills in handling CSV and JSON files. With two higher educations specializing in managing data about attractions in Moscow, Polly is not your average cleaning companion. She seamlessly transitions between tidying up your home and effortlessly organizing data, making her a versatile and invaluable addition to any household.**
+**Introducing Polly, the extraordinary robot vacuum cleaner with a twist!**
+
+Not only does Polly excel at keeping your floors spotless, but she also boasts a remarkable set of skills in handling CSV and JSON files. With two higher educations specializing in managing data about attractions in Moscow, Polly is not your average cleaning companion. 
+
+She seamlessly transitions between tidying up your home and effortlessly organizing data, making her a versatile and invaluable addition to any household.
 
 ## Links
 [Techical Specification](https://drive.google.com/file/d/1XU6bPfs4jTLXaaJOFn28eJwOHnMQ1LiU/view)
