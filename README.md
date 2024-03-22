@@ -1,5 +1,13 @@
 # CHW3_mod3_Kazhkarimov_23101_var3
-<img src="https://github.com/AlbatovK/Dira/blob/master/app/src/main/res/drawable-v24/logo.png" height="200" align="right" vspace="50" hspace="50">
+<img src="https://github.com/justcipunz/CHW3_mod3_Kazhkarimov_23101_var3/blob/master/pilesos.jpg" height="150" align="left">
+
+- Hi! I'm Polly, and I'm a robot vacuum cleaner! Also I have some fascinating abilities.. to work with csv and json files! Yeah, I think it's hard to believe, but I have two higher educations in the specialty of handling csv and json files with data about attractions in Moscow, ehehe (＠＾◡＾)
+- You.. You don't want to tlak with me?..	(>_<)
+- You don't care about me?.. You just want to read my oficial description?..	(・_・ヾ
+- Alright.. Sorry, here it is.
+
+## Polly
+Introducing Polly, the extraordinary robot vacuum cleaner with a twist! Not only does Polly excel at keeping your floors spotless, but she also boasts a remarkable set of skills in handling CSV and JSON files. With two higher educations specializing in managing data about attractions in Moscow, Polly is not your average cleaning companion. She seamlessly transitions between tidying up your home and effortlessly organizing data, making her a versatile and invaluable addition to any household.
 
 ## License
 ```
